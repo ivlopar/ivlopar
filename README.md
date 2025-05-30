@@ -2,7 +2,7 @@
 
 ## My name is Ian, and I'm in college studying Electronics Engineering Technology ✍
 
-I will be posting more detailed information about the project I do in school and my own personal projects.
+I will be posting more detailed information about the projects I do in school and my own personal projects.
 
 
 <!--
